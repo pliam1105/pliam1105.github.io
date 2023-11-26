@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pliam1105.github.io//pliam1105.github.io//sitemap.xml
+Sitemap: https://pliam1105.github.io//sitemap.xml
