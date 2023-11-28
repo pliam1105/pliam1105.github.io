@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - pliam1105
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - pliam1105/Rover-Sensors
+  - pliam1105/Rover-Hand
+  - pliam1105/Parking-Detection
+  - pliam1105/Plant-Watering
