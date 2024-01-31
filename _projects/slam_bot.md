@@ -5,5 +5,5 @@ description: A 3D printed robot that runs on the Robot Operating System (ROS 2) 
 img: assets/img/slam_bot_overview.jpg
 importance: 2
 category: personal
-redirect_url: https://github.com/pliam1105/3D-Printed-ROS-SLAM-Robot
+redirect_url: https://medium.com/@pliam1105/building-a-3d-printed-robot-that-uses-slam-for-autonomous-navigation-cd83473dac7c
 ---
