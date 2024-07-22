@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Internet of Things, Robotics, Software, and AI developer & researcher.
+subtitle: Massachusetts Institute of Technology Class of 2028 (Undergraduate) & Internet of Things, Robotics, Software, and AI developer.
 
 profile:
   align: right
